@@ -12,12 +12,12 @@ Do not commit your data files or commpiled executables.
 
 | Section  | Available points  | Earned points  | 
 |---|---|---|
-|  _Part 1_ | 10 |   |
+|  _Part 1_ | _10_ |   |
 |  Correctness | 5 |   |
 |  Style | 5 |   |
-|  _Part 2_ | 80 |   |
+|  _Part 2_ | _80_ |   |
 |  Functionality | 50 |   |
 |  Design | 20 |   |
 |  Style | 10 |   |
-|  _Part 3_ | 10 |   |  
+|  _Part 3_ | _10_ |   |  
 | *Total*  | *100* |   |
