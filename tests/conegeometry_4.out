@@ -1,0 +1,4 @@
+Usage:
+    $ ./conegeometry <height> <radius> <area_or_volume>
+
+    area_or_volume:  must be area or volume
