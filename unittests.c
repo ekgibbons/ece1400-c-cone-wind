@@ -42,7 +42,7 @@ UTEST(conegeometry, area_func)
     double sol;
     
     FILE *fp = fopen("tmp_sol","r");
-    fscanf(fp,"%lf", &sol);
+    ret = fscanf(fp,"%lf", &sol);
     fclose(fp);
 
     ASSERT_LT(fabs(sol-sub), 1e-4);
@@ -101,7 +101,7 @@ UTEST(conegeometry, volume_func)
     double sol;
     
     FILE *fp = fopen("tmp_sol","r");
-    fscanf(fp,"%lf", &sol);
+    ret = fscanf(fp,"%lf", &sol);
     fclose(fp);
 
     ASSERT_LT(fabs(sol-sub), 1e-4);
